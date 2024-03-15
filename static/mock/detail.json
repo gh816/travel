@@ -1,0 +1,22 @@
+{
+    "ret": true,
+    "data": {
+        "sightName": "大连圣亚海洋世界(AAAA景区)",
+        "bannerImg": "https://pic3.zhimg.com/v2-58d652598269710fa67ec8d1c88d8f03_r.jpg?source=1940ef5c",
+        "galleryImgs": ["https://pic3.zhimg.com/v2-58d652598269710fa67ec8d1c88d8f03_r.jpg?source=1940ef5c","https://ts1.cn.mm.bing.net/th/id/R-C.22cdb21060f95297035a380467123768?rik=ZZ5YeI3loyMu0w&riu=http%3a%2f%2fimg.pconline.com.cn%2fimages%2fupload%2fupc%2ftx%2fwallpaper%2f1307%2f10%2fc0%2f23166997_1373443405186.jpg&ehk=UuR5odrdPxwmlbjY0C5WGXyxSJdyN%2b1aYi%2bnwiG6DPQ%3d&risl=&pid=ImgRaw&r=0"],
+        "categoryList": [{
+            "title": "成人票",
+            "children": [{
+                "title": "成人三馆联票"
+                }, {
+                "title": "成人五馆联票"
+                }]
+        }, {
+            "title": "学生票"
+        }, {
+            "title": "儿童票"
+        }, {
+            "title": "特惠票"
+        }]
+    }
+}

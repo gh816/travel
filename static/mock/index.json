@@ -1,0 +1,101 @@
+{
+    "ret": true,
+    "data": {
+        "swiperList": [{
+            "id": "0001",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg"
+        }, {
+            "id": "0002",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/e48c2f8342f9b806240e90ceea6367a3.jpg"
+        }, {
+            "id": "0003",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/6ab801c316b70424a3ec5690ab035778.jpg"
+        }, {
+            "id": "0004",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/35a8c5f9d92c57924e4279479edbe4f9.jpg"
+        }],
+        "iconList": [{
+                "id": "0001",
+                "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+                "desc": "景点门票"
+            },
+            {
+                "id": "0002",
+                "imgUrl": "https://img0.baidu.com/it/u=2334598958,1355201211&fm=253&fmt=auto&app=138&f=JPG?w=500&h=500",
+                "desc": "滑雪季"
+            },
+            {
+                "id": "0003",
+                "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+                "desc": "景点门票"
+            },
+            {
+                "id": "0004",
+                "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+                "desc": "景点门票"
+            },
+            {
+                "id": "0005",
+                "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+                "desc": "景点门票"
+            },
+            {
+                "id": "0006",
+                "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+                "desc": "景点门票"
+            },
+            {
+                "id": "0007",
+                "imgUrl": "https://img0.baidu.com/it/u=2334598958,1355201211&fm=253&fmt=auto&app=138&f=JPG?w=500&h=500",
+                "desc": "景点门票"
+            },
+            {
+                "id": "0008",
+                "imgUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.51yuansu.com%2Fpic3%2Fcover%2F03%2F43%2F85%2F5b9c88c410a91_610.jpg&refer=http%3A%2F%2Fpic.51yuansu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650815180&t=53c73551b06be09ff084809fed4c39c5",
+                "desc": "景点门票"
+            },
+            {
+                "id": "0009",
+                "imgUrl": "https://img0.baidu.com/it/u=2334598958,1355201211&fm=253&fmt=auto&app=138&f=JPG?w=500&h=500",
+                "desc": "景点门票"
+            }
+        ],
+        "recommendList": [{
+            "id": "0001",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+            "title": "大连圣亚海洋世界",
+            "desc": "浪漫大连首站,浪漫的海洋主体乐园"
+        }, {
+            "id": "0002",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+            "title": "大连圣亚海洋世界",
+            "desc": "浪漫大连首站,浪漫的海洋主体乐园"
+        }, {
+            "id": "0003",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+            "title": "大连圣亚海洋世界",
+            "desc": "浪漫大连首站,浪漫的海洋主体乐园"
+        }, {
+            "id": "0004",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+            "title": "大连圣亚海洋世界",
+            "desc": "浪漫大连首站,浪漫的海洋主体乐园"
+        }],
+        "weekendList": [{
+            "id": "0001",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+            "title": "大连圣亚海洋世界",
+            "desc": "浪漫大连首站,浪漫的海洋主体乐园"
+        },{
+            "id": "0002",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+            "title": "大连圣亚海洋世界",
+            "desc": "浪漫大连首站,浪漫的海洋主体乐园"
+        },{
+            "id": "0003",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-vs-dapp-ugc/img/f771418b577a6be8694e2e6d120c6d9c.jpg",
+            "title": "大连圣亚海洋世界",
+            "desc": "浪漫大连首站,浪漫的海洋主体乐园"
+        }]
+    }
+}
